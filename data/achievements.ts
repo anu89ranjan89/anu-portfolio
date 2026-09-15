@@ -4,7 +4,7 @@ export const achievements = [
     subtitle: "Competitive Programming",
     value: "1★",
     description: "Solved DSA problems and participated in rated contests.",
-    link: "#",
+    link: "https://www.codechef.com/users/swarm_bliss_07",
     color: "cyan",
   },
 
@@ -13,7 +13,7 @@ export const achievements = [
     subtitle: "Problem Solving",
     value: "500+",
     description: "Practicing DSA consistently with daily challenges.",
-    link: "#",
+    link: "https://www.geeksforgeeks.org/profile/anu89rafc2k",
     color: "green",
   },
 
@@ -22,7 +22,7 @@ export const achievements = [
     subtitle: "Coding Practice",
     value: "Active",
     description: "Strengthening problem-solving and interview preparation.",
-    link: "#",
+    link: "https://leetcode.com/u/anupriya_ranjan_/",
     color: "yellow",
   },
 
@@ -31,7 +31,7 @@ export const achievements = [
     subtitle: "Open Source",
     value: "7+ Projects",
     description: "Building AI, Machine Learning, and Full-Stack applications.",
-    link: "#",
+    link: "https://github.com/anu89ranjan89",
     color: "purple",
   },
 
@@ -40,7 +40,7 @@ export const achievements = [
     subtitle: "Professional Profile",
     value: "Connect",
     description: "Sharing projects, achievements, and technical journey.",
-    link: "#",
+    link: "https://www.linkedin.com/in/anupriya-ranjan-956580384/",
     color: "blue",
   },
 ];
